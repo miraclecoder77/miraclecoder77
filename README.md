@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @miraclecoder77
-- 👀 I’m interested JavaScript
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m @miraclecoder7
+- 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at miracleaghamobi@gmail.com
 
